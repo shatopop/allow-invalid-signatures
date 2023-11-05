@@ -1,0 +1,9 @@
+[plugins]
+shadow = "com.github.johnrengelman.shadow:7.1.2"
+spotless = "com.diffplug.spotless:6.17.0"
+bukkitPluginYAML = "net.minecrell.plugin-yml.bukkit:0.5.1"
+
+[libraries]
+protocollib = "com.comphenix.protocol:ProtocolLib:5.0.0"
+spigot = "org.spigotmc:spigot:1.8.8-R0.1-SNAPSHOT"
+inject = "team.unnamed:inject:1.0.1"
